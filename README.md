@@ -1,4 +1,4 @@
-# Finance-Tracker-WebServer
+# Finance Tracker WebServer
 This is a webserver which allows you pull your bank account data via Plaid Link and see a break down of your income and expenses, including data visualization through bar graphs.
 
 ## Development Stage: Development
@@ -23,6 +23,11 @@ An example of the current home screen (dashboard). Screenshot was taking at 75% 
 ![Dashboard_transactions_hidden](https://user-images.githubusercontent.com/55816533/137607159-a9758d8d-8f33-41a9-986d-76561c9c08e6.jpg)
 This is what is shown below the two bar graphs on the dashboard.
 
+### History Page
+![history_hidden](https://user-images.githubusercontent.com/55816533/137612725-7486f3ed-bba6-472a-bd1f-5c4cc2227bce.jpg)
+A screenshot of the "History" page, which shows the past 12 months of expense/income history. Plans to include all transactions beneath each month's graphs. (~75% zoom)
+
 
 ## Developer Notes
 This project is still a work in progress and I plan to upload the code when I have a clean and fully functional base version up right now. What you see in the images above is what I currently have working.
+
