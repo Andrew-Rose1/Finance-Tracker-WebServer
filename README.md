@@ -3,6 +3,8 @@ This is a webserver which allows you pull your bank account data via Plaid Link 
 
 ## Development Stage: Development
 
+Source code and Getting Started section coming soon. Current build is not 100% stable and code is messy...
+
 ## Features
 - Define your own categories by providing keywords to look for in transaction titles.
 - See a snapshot of your current month's spending and where income is coming from.
