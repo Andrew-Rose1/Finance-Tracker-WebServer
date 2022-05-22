@@ -11,7 +11,7 @@ Source code and Getting Started section coming soon. Current build is not 100% s
 - Look back on the past year's worth of historical banking data using your predefined categories.
 - Utilizes local JSON data structures to minimize the amount of Plaid API calls needed to be made.
 - Utilizes Python and Flask to run back-end computations/API calls.
-- Utilizes HTML/CSS and Jinja2 Tempaltes to provide frontend visualization and communicationto back-end. 
+- Utilizes HTML/CSS and Jinja2 Tempaltes to provide frontend visualization and communication to back-end. 
 
 ## Example
 Below are some screenshots of the current build, including the main dashboard and historical data page.
