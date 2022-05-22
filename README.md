@@ -31,5 +31,5 @@ A screenshot of the "History" page, which shows the past 12 months of expense/in
 
 
 ## Developer Notes
-This project is still a work in progress and I plan to upload the code when I have a clean and fully functional base version up right now. What you see in the images above is what I currently have working.
+This project is still a work in progress and I plan to upload the code when I have a clean and fully functional base version operational. What you see in the images above is what I currently have working.
 
