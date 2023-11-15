@@ -18,17 +18,9 @@ Below are some screenshots of the current build, including the main dashboard an
 I have ran the build in "privacy" mode, to hide things such as available balance. Most other sensative information has been manually blacked out.
 
 ### Dashboard
-![Dashboard_zoomedOut_hidden](https://user-images.githubusercontent.com/55816533/137607154-317f3a0e-4cc2-4071-99b3-e5df97a86085.jpg)
-An example of the current home screen (dashboard). Screenshot was taking at 75% zoom.
+![Dashboard_zoomedOut_hidden]<img width="1510" alt="expense-tracker-spotlight" src="https://github.com/Andrew-Rose1/finance-tracker/assets/55816533/f3e932a2-b265-4ff2-bcae-4712f1db027c">
 
-### Dashboard -- Transactions
-![Dashboard_transactions_hidden](https://user-images.githubusercontent.com/55816533/137607159-a9758d8d-8f33-41a9-986d-76561c9c08e6.jpg)
-This is what is shown below the two bar graphs on the dashboard.
-
-### History Page
-![history_hidden](https://user-images.githubusercontent.com/55816533/137612725-7486f3ed-bba6-472a-bd1f-5c4cc2227bce.jpg)
-A screenshot of the "History" page, which shows the past 12 months of expense/income history. Plans to include all transactions beneath each month's graphs. (~75% zoom)
-
+An example of the current home screen (dashboard).
 
 ## Developer Notes
 This project is still a work in progress and I plan to upload the code when I have a clean and fully functional base version operational. What you see in the images above is what I currently have working.
